@@ -1,4 +1,5 @@
 # Password-checker
 
-
-python3 checkmypass.py "your password"
+# This program check if your passwords have been compromised.
+______________________________________________________________
+# python3 checkmypass.py "your password"
